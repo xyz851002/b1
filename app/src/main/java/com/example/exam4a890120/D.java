@@ -22,7 +22,7 @@ public class D extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_d);
 
-        setTitle("第四題");
+        setTitle("yyds");
 
         btnCreate = findViewById(R.id.btnCreate);
         btnInsert = findViewById(R.id.btnInsert);
